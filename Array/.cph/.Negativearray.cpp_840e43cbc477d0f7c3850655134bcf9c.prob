@@ -1,0 +1,1 @@
+{"name":"Local: Negativearray","url":"d:\\Code Dazzelers\\Array\\Negativearray.cpp","tests":[{"id":1632416209184,"input":"5\n-1 -2 3 4 -5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code Dazzelers\\Array\\Negativearray.cpp","group":"local","local":true}

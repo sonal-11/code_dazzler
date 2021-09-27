@@ -1,0 +1,1 @@
+{"name":"Local: max_min_recursion","url":"d:\\Code Dazzelers\\Array\\max_min_recursion.cpp","tests":[{"id":1632479000259,"input":"10\n5 1 6 10 2 3 6 50 -7 4","output":"Maximum element = 5\nMinimum element = 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code Dazzelers\\Array\\max_min_recursion.cpp","group":"local","local":true}

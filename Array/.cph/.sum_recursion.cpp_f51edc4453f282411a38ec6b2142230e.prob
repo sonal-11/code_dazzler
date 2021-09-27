@@ -1,0 +1,1 @@
+{"name":"Local: sum_recursion","url":"d:\\Code Dazzelers\\Array\\sum_recursion.cpp","tests":[{"id":1632416492585,"input":"5\n1 2 3 4 5","output":"enter the size of array :enter the elements in the array15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code Dazzelers\\Array\\sum_recursion.cpp","group":"local","local":true}

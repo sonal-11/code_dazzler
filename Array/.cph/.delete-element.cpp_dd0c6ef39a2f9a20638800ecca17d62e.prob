@@ -1,0 +1,1 @@
+{"name":"Local: delete-element","url":"d:\\Code Dazzelers\\Array\\delete-element.cpp","tests":[{"id":1632641855858,"input":"5 3 3\n1 2 3 4 5","output":"1 2 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code Dazzelers\\Array\\delete-element.cpp","group":"local","local":true}
