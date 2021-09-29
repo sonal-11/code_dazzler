@@ -1,0 +1,1 @@
+{"name":"Local: odd-even-arrays","url":"d:\\Code Dazzelers\\Array\\odd-even-arrays.cpp","tests":[{"id":1632934854888,"input":"10\n0 1 2 3 4 5 6 7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code Dazzelers\\Array\\odd-even-arrays.cpp","group":"local","local":true}

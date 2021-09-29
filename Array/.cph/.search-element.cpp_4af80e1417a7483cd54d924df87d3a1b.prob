@@ -1,0 +1,1 @@
+{"name":"Local: search-element","url":"d:\\Code Dazzelers\\Array\\search-element.cpp","tests":[{"id":1632936141336,"input":"10\n10 12 20 25 13 10 9 40 60 5\n25","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code Dazzelers\\Array\\search-element.cpp","group":"local","local":true}
